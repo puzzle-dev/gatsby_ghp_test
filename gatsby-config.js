@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/gatsby_ghp_test`,
   siteMetadata: {
     title: `Gatsby Starter Blog`,
     author: {
